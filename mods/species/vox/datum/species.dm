@@ -2,11 +2,11 @@
 	chargen_min_index = 3
 	chargen_max_index = 6
 	standalone_value_descriptors = list(
-		"freshly spawned" =  1,
+	/*	"freshly spawned" =  1,
 		"a larva" =          2,
 		"a juvenile" =       5,
-		"an adolescent" =    8,
-		"an adult" =        12,
+		"an adolescent" =    8, */
+		"an adult" =        18,
 		"senescent" =       50,
 		"withered" =        65
 	)
