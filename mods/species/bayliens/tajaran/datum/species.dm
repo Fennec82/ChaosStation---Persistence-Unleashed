@@ -1,9 +1,9 @@
 /datum/appearance_descriptor/age/tajaran
 	standalone_value_descriptors = list(
-		"an infant" =       1,
+	/*	"an infant" =       1,
 		"a toddler" =       3,
 		"a child" =         7,
-		"an adolescent" =  13,
+		"an adolescent" =  13, */
 		"a young adult" =  18,
 		"an adult" =       30,
 		"middle-aged" =    55,
