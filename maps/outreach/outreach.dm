@@ -2,6 +2,8 @@
 	// Mods section
 	#include "../../mods/persistence/_persistence.dme"
 	#include "../../mods/species/ascent/_ascent.dme"
+	#include "../../mods/species/bayliens/_bayliens.dme"
+	#include "../../mods/species/neoavians/_neoavians.dme"
 	#include "../../mods/content/xenobiology/_xenobiology.dme"
 	#include "../chargen/chargen_areas.dm"
 	#include "../chargen/chargen_objects.dm"
